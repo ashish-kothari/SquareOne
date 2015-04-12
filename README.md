@@ -1,0 +1,2 @@
+# SquareOne
+News aggregator application.
