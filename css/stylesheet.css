@@ -1,0 +1,14 @@
+#home-search{
+	border-radius: 18px;
+}
+
+.navbar {
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+
+.half-rule {
+	width: 100px;
+	margin: 10px auto;
+	border-color: #888;
+}
